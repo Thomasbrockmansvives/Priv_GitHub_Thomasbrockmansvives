@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @Thomasbrockmansvives
-- 👀 I’m interested in Software Engineering, Lego and Sports and I love donkeys
-- 🌱 I’m currently learning Applied Informatics at the Vives Hogeschool Kortrijk and doing an IT Project for school
+- 👀 I’m interested in Software Engineering, Lego and Sports and I love donkeys, dinosaurs and space aviation
+- 🧑‍🤝‍🧑 Thanks to my previous employments (non-IT) I am unique blend of skilled software engineering, fluent communicator (not afraid of human beings at all) and can very easily understand business context (a rarity indeed).
+- 🧑‍💻 I have a passion for developing small productivity applications, but I also thrive in huge projects
+- 🌱 I’m currently learning Applied Informatics at the Vives Hogeschool Kortrijk
+- 🏢 Since 2023 I am a software engineer at Colruyt Group (java, vba, powerfx, ...)
 - 📫 How to reach me: thomas.brockmans@student.vives.be
